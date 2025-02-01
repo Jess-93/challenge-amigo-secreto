@@ -74,6 +74,7 @@ function sortearAmigo() {
     // Limpiar la lista de amigos después del sorteo.
     amigos = []; // Vaciar el array de amigos
     actualizarLista(); // Limpiar la lista visualmente
+    
 }
 
 // Crear función para reiniciar la lista y el resultado
