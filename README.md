@@ -40,9 +40,14 @@ El botón "Reiniciar" permite borrar todos los nombres ingresados y los resultad
 ### `reiniciarJuego()`
 - Limpia la lista de amigos y el resultado sorteado para reiniciar el juego.
 
+### Contribuciones
+Las contribuciones son bienvenidas. Si deseas realizar cambios o mejorar el proyecto, por favor, haz un fork del repositorio y crea un pull request con tus sugerencias.
+
+### Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
+
 ## Instalación
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/usuario/amigo-secreto.git
-
+git clone https://github.com/Jess-93/challenge-amigo-secreto.git
