@@ -37,3 +37,4 @@ function agregarAmigo() {
     // Limpiar el campo de entrada después de agregar el amigo
     document.getElementById("amigo").value = "";
 }
+git1
