@@ -2,6 +2,8 @@
 
 let amigos = [];
 
+
+//Crear funciona para agregar amigos al array
 function agregarAmigo() {
     // Captura del texto ingresado
     let textoIngresado = document.getElementById("amigo").value.trim();
@@ -37,4 +39,17 @@ function agregarAmigo() {
     // Limpiar el campo de entrada después de agregar el amigo
     document.getElementById("amigo").value = "";
 }
-git1
+
+//Crear función para agregar y hacer display de los amigos agregados
+function actualizarLista () {
+let lista = getElementById("listaAmigos");
+lista.innerHTML = ""; //limpa la lista antes de agregar nuevos elementos
+
+for (let i = 0; i < amigos.length; i++); //Recorre el array en bucle para agregar nombres
+    let li = document.createElement("li"); // Se crea nuevo elemento y asociacióm
+    li.textContent = amigos [i]; // Obtiene el nombre actual
+
+
+
+
+}
