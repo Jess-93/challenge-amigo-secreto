@@ -161,7 +161,6 @@ ul {
     cursor: pointer;
     margin-top: 20px; /* Espaciado superior */
 }
-
 .button-restart:hover {
     background-color: #e53935; /* Rojo más intenso para el hover */
 }
